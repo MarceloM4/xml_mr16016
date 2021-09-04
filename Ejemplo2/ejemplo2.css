@@ -1,0 +1,5 @@
+/* ejemplo2.css   MR16016  */
+pais {background-color:green;}
+departamento {background-color:purple; display:block;} 
+cabecera {color:white; display:inline;} habitantes {color:red; display:inline;}
+altura {color:yellow;font-size:1cm; display:inline;}

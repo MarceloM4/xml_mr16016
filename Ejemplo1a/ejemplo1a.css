@@ -1,0 +1,7 @@
+/* ejemplo1a.css   MR16016  */
+fichero {background-color:orange;}
+ficha {background-color:white; display:block;} 
+nombre {color:black; display:inline;} apellido {color:black; display:inline;}
+direccion {color:green;font-size:0.5 cm; display:inline;}
+email {color:green;font-size:0.5 cm; display:inline;}
+web {color:green;font-size:0.5 cm; display:inline;}

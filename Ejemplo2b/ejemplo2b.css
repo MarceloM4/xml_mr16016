@@ -1,0 +1,8 @@
+/* ejemplo2b.css   MR16016  */
+pais{background-color:coral;}
+departamento {background-color:white; display:block;} 
+cabecera{color:black; display:inline;} habitantes {color:olive; display:inline;}
+altura {color:red;font-size:1cm; display:inline;}
+area_territorio {color:black;font-size:0.5cm; display:inline;}
+alcalde {color:darkblue;font-size:0.5cm; display:inline;}
+fiestas {color:darkblue;font-size:0.5cm; display:inline;}

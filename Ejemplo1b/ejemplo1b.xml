@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- ejemplo1.xml  MR16016 -->
+<?xml-stylesheet type="text/css" href="ejemplo1b.css" ?>
+<fichero>
+<ficha id="1" fechaingreso="1/11/2012">
+<nombre>Marcelo</nombre>
+<apellido>Manzano</apellido>
+<direccion>Calle de Los Andes, 45</direccion>
+</ficha>
+
+<ficha id="1" fechaingreso="6/11/1999">
+<nombre>Agapito</nombre>
+<apellido>Perez</apellido>
+<direccion>San Bartolo, 46</direccion>
+<telefono>2256-8596</telefono>
+<email>agapito15@gmail.com</email>
+<web>https://www.agaptito1314.com</web>
+</ficha>
+
+<ficha id="1" fechaingreso="6/11/1999">
+<nombre>Agapito</nombre>
+<apellido>Perez</apellido>
+<direccion>San Bartolo, 46</direccion>
+<telefono>2256-8596</telefono>
+<email>agapito15@gmail.com</email>
+<web>https://www.agaptito1314.com</web>
+<dui>08697563-4</dui>
+<isss>545886</isss>
+<afp>4868777</afp>
+</ficha>
+</fichero> 
